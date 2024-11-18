@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore TypeScript configuration output if needed
+dist/
